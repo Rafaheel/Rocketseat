@@ -1,5 +1,4 @@
-:root { 
-    /*Variaveis CSS */
+:root {
     --color-background: #F0F0F7;
     --color-primary-lighter: #9871F5;
     --color-primary-light: #916BEA;
@@ -18,48 +17,44 @@
     --color-button-text: #FFFFFF;
     --color-box-base: #FFFFFF;
     --color-box-footer: #FAFAFC;
-    --color-small-info: #C1BCCC;
-
-
-    font-size: 60%; /* controle das medidas rem */
+    --color-small-info: #C1BCCC;  
+    --color-hover-button:#774FD1; 
+    font-size: 60%; 
 }
 
-
-
-
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-html,
-body {
+body{
     height: 100vh;
-}
-
-body {    
-    background: var(---color-background);
+    background: var(--color-background);
     display: flex;
     align-items: center;
-    justify-content: center; 
+    justify-content: center;
+    font-weight:500;
+    font-size: 1.6rem;
+    font-family: Poppins;
+    color: var(--color-text-base)
+    
 }
 
-body,
-input,
-button,
-textarea {
-    font: 500 1.6rem Poppins;
-    color: var(--color-text-base);
+button {
+    font-weight: 500;
+    font-size: 1.6rem;
+    font-family: Poppins;
+    color: var(--color-text-base)
 }
 
-#container {
+#container{
     width: 90vw;
     max-width: 700px;
 }
 
-@media (min-width: 700px) {
-    :root {
-        font-size: 62.5%; /* relativo a 10 px */
-     }    
+@media (min-width: 700px){
+    :root{
+        font-size: 62.5%;
+    }
 }
