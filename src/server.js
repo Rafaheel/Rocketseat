@@ -113,3 +113,11 @@ server.use(express.static("public"))
 .get("/give-classes", pageGiveClasses)  
 .listen(5500)
 
+
+
+
+//Como Rodar o node no terminal do VScode
+//iniciando o pacote de sub dependencias (npm init -y)
+//Instalando a biblioteca para o servidor (npm install express)
+//Como atualizar automaticamente o servidor (npm nodemon -D) Como desenvolvedor
+//instalando nunjucks (npm install nunjucks)
