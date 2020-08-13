@@ -19,8 +19,8 @@ This app was made in one special week offer of Rocketseat. The instructor was Di
 
 # Screenshots
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src=".github/web-landing.png" width="400px">
-   <img src="web/src/assets/images/landing.svg" width="400px">
+   <img src="public/images/web-landing.png" width="400px">
+   <img src="public/images/web-list.png" width="400px">
 </div>
 
 
