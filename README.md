@@ -24,7 +24,7 @@ This app was made in one special week offer of Rocketseat. The instructor was Ma
 ### 📦 Run API
 
 ```bash
-- Na pasta do projeto, rode o comando no seu terminal
+- Open your project on vscode and run on your terminal:
 
 npm run dev
 
