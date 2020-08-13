@@ -2,19 +2,19 @@
    <img src="public/images/NLW.png" alt="Turma" width="400"/>   
 </p>
 <p align="center">:rocket: Plataform to connect teachers and students made with React in NLW (Next Level Week) #02. <br>
-This app was made in one special week offer of Rocketseat. The instructor was Diego  Fernandes.<br>
-"Trilha OmniStack"
+This app was made in one special week offer of Rocketseat. The instructor was Mayk Brito.<br>
+"Trilha Discovery
+dd94d22
+"
 </p>
 
-# :computer: Technologies
+# :computer: Technologies and 🛠️ Tools to run this project
 <ul>
- <li><a href="https://www.typescriptlang.org/">Typescript</a></li> 
-  <li><a href="https://reactjs.org/">ReactJS</a></li>
-  <li><a href="https://reactnative.dev/">React Native</a></li>
-  <li><a href="https://expo.io/">Expo</a></li>
-  <li><a href="https://expressjs.com/en/api.html#express">Express</a></li>
-  <li><a href="https://insomnia.rest/">Insomnia</a></li>
-  <li><a href="http://knexjs.org/">Knex</a></li>
+ <li><a href="https://www.javascript.com/">JavaScript</a></li>
+ <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+ <li><a href="https://nodejs.org/en/">NodeJs</a></li>
+ <li><a href="https://git-scm.com/">Git</a></li>
+ <li><a href="https://github.com/">Github</a></li>
 </ul>
 
 # Screenshots
@@ -22,17 +22,6 @@ This app was made in one special week offer of Rocketseat. The instructor was Di
    <img src="public/images/web-landing.png" width="400px">
    <img src="public/images/web-list.png" width="400px">
 </div>
-
-
-# 🛠️ Tools to run this project
-
-<li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
-<li><a href="https://nodejs.org/en/">NodeJs</a></li>
-<li><a href="https://git-scm.com/">Git</a></li>
-<li><a href="https://github.com/">Github</a></li>
-
-
-
 
 ### 📦 Run API
 
