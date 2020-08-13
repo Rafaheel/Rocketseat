@@ -1,5 +1,5 @@
 <p align="center">
-   <img src=".github/NLW.png" alt="Turma" width="400"/>   
+   <img src="public/images/NLW.png" alt="Turma" width="400"/>   
 </p>
 <p align="center">:rocket: Plataform to connect teachers and students made with React in NLW (Next Level Week) #02. <br>
 This app was made in one special week offer of Rocketseat. The instructor was Diego  Fernandes.<br>
