@@ -3,9 +3,7 @@
 </p>
 <p align="center">:rocket: Plataform to connect teachers and students made with React in NLW (Next Level Week) #02. <br>
 This app was made in one special week offer of Rocketseat. The instructor was Mayk Brito.<br>
-"Trilha Discovery
-dd94d22
-"
+"Trilha Discovery"
 </p>
 
 # :computer: Technologies and 🛠️ Tools to run this project
@@ -26,45 +24,12 @@ dd94d22
 ### 📦 Run API
 
 ```bash
-# Go to server folder
-$ cd Rocketseat-NLW-React-JS/server
+- Na pasta do projeto, rode o comando no seu terminal
 
-# Install Dependencies
-$ yarn install
+npm run dev
 
-# Run Aplication
-$ yarn start
+- Open your project:
+
+localhost:5500
+
 ```
-Access API at http://localhost:3333/
-
-### 💻 Run Web Project
-
-```bash
-# Go to web folder
-$ cd Rocketseat-NLW-React-JS/web
-
-# Install Dependencies
-$ yarn install
-
-# Run Aplication
-$ yarn start
-```
-Go to http://localhost:3000/ to see the result.
-
-### 📱 Run Mobile Project
-
-To run the mobile project you need a cellphone with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instaled or a emulator android/ios.
-<br />
-After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
-
-```bash
-# Go to mobile folder
-$ cd Rocketseat-NLW-React-JS/mobile
-
-# Install Dependencies
-$ yarn install
-
-# Run Aplication
-$ yarn start
-```
-Aferter read the QRCode with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or run on emulator.
